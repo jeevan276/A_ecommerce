@@ -1315,8 +1315,11 @@ p {
     height: auto;
   }
   .footer .footer4 .f4_text3 {
+    height:auto;
+    margin-bottom:5rem;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
     font-size: 18px;
     color: #666;
   }
 }
+
